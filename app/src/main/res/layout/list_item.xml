@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="50dp">
+    <TextView
+        android:id="@+id/ingredient_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Name of ingredient"
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+        android:textColor="@color/Coral"
+        android:onClick="addToChosenIngredients"/>
+</LinearLayout>

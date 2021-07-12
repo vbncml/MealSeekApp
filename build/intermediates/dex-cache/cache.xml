@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/5e479594519a20dfb5e7193b3524d836cc546639/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_2235fcfa58b068c2a62a047ec93bc90793ffbd5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/1eb24ade2bad94c3265d5761b31f498e6aeaff52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6399340139f67ce4faba06e97f256ef0d6817c0">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_f15ce111fad65299579248d408aec4ae0c9ebad9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/60c275e06304dd6938cecc2372894a43fa06017a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ccad5f56bf5c771ec3e85165be9ab0d0948c27aa">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_2ac5634c0437c8259f53192de2969ec0963620c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/5fc85d797b46c04218ae16b89883098f1dad2c72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da443aff9cd3c2cd75b957e0547e1ca2c4f30308">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_7ffad3d3281dcd7c1426e06235517b6f7e68a731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/42c3f06219a0ebe47b134a373d580df32b7aaf02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9176f96bb623ac8bbd2b79942d9e419f72f95301">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_4cf151c8d6011e493573bcb8f81ad2ac97012f56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/1378b04c37228d070a98f9aa64709db136f0efaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="241bafb36b47aee8c8c34acd08a1e7d735a66ff0">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_bc3b396f70496b2b9e20aa58433dad2ee3ebff2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/f06b00b499b74e181f3f95693afd5bff524fede9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b8fd995f9c6c2caeb49827f0b52e0e8cc621e0">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_9bf9da0775ae1904bd525c260675a47de73d17b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/26f1df12cadbeebd7f4d4e44061fc976429b833b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_b446c59ea516c43fdcfc33bfdda536f99b24d365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/15773e865fbe9e3d74a555bfeb35cebf3f82abd5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1cde19cbf9be88547ab4b7f03668eac5d91bd611">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_70614869593b644fe7580c04b22a02e7babf083f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/2b758748a2ef1811a2ca47fbfec3b2d4deea6dfc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47bcd0b3eac50dbe2f150987250a6507e10ef28a">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_bae9b7c9a3c9592188f08e1319bd9f9cdc6433af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/f3eb60152e38db06f96b757e9b1b7b6fea537ee4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6679c7d77ad34dbdf04342adb254dc5892aa04ac">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_a185168c5d78785a3f00733c524fa1f622cb9c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bekarys/.android/build-cache/46c35cf04e2d79a58f9898eafc3a94356f98d957/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e4a9d8510de319af17459d3ec70e23559b83495b">
+        <dex dex="/home/bekarys/Рабочий стол/Mealseek/app/build/intermediates/pre-dexed/debug/classes_dc3260ec0a2bde33e8c15f8c445a12b7e038d8d5.jar" />
+    </item>
+
+</items>
